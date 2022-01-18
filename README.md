@@ -1,7 +1,7 @@
 arch-install - Simple Arch Linux Install Script
 ===============================================
 
- * Author: Tom Wambold <tom5760@gmail.com>
+Forked from Tom Wambold's <tom5760@gmail.com> Arch install script
  * Copyright (c) 2012 Tom Wambold
 
 This is just a simple shell script I use to install my own personal systems
